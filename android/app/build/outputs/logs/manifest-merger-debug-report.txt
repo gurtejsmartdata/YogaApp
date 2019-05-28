@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [:react-native-youtube] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.9.aar/aeb01549bf7761eb8a92eacafe8c37da/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3bd3f9d08749862d8e869902f886e403/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/9e7baac68054db34cfcc50cfa8fb03a7/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/277cbe8848639be24b9fc1a41ea6b53b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b237ff802beedc8a6ce5003ee335138/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/36fb5016995cc54badfe04f2c62eb4d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c1b5bc866cac8bd5efc1984d4327b74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/86d6aeccad174ae284ce78c990af5a4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b11011c74b129e40609dffddaa2650/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/80015ea1a3d966515ed671c10379fc40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/aa3c3d579af4310a4f84e6098d9ca522/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/77e15c2f78ec51c1af3944fad6a93516/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7887cbd6ad8c6fd3cb69ad67e6b1888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b38829bb5bbcf9b24fa35dfd1c3629e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e95c610ccff86b6ec9d421fae78bea9a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5b768e64937026987a131ebc23111b20/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/451c02369d69030a45c935a7a792e14b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c5af5cde2c6dc9146351e9713262e3ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/071e3a758eea2f746119dbf644a685ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4d9b654dfc85d89175681c573e60764/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0ce866387746f4cbd0e510e7ac996f9f/AndroidManifest.xml:1:1-3:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/170726b9433846883235d5ac9c47dac4/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7fd5956185ad8250483069ce97785abc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/521eef1ec716c1ee1e4aba46fa340c58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dff8de51446f9d412ac09bdd1c4680d7/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96cd87fc0986147c1630707e355a2f27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eb87431f26e8ce037a8d8664e9f5081/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:8:1-75
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:8:18-72
+application
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:13:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.9.aar/aeb01549bf7761eb8a92eacafe8c37da/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.9.aar/aeb01549bf7761eb8a92eacafe8c37da/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4d9b654dfc85d89175681c573e60764/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4d9b654dfc85d89175681c573e60764/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0ce866387746f4cbd0e510e7ac996f9f/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/0ce866387746f4cbd0e510e7ac996f9f/AndroidManifest.xml:2:3-17
+MERGED from [com.github.clans:fab:1.6.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/170726b9433846883235d5ac9c47dac4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/170726b9433846883235d5ac9c47dac4/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:icon
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.app.YogaApp.MainActivity
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:15:7-25:18
+	android:label
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:launchMode
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:18:11-41
+	android:windowSoftInputMode
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:26:7-84
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:26:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:27:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:28:13-30:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:29:25-75
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:32:9-36:19
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:32:18-92
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:33:13-35:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:34:17-79
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:34:25-77
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:37:9-104
+	android:name
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:37:18-101
+uses-sdk
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-youtube] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-youtube] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-youtube/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/react-native-0.57.3.aar/097fac6a65101807a9e31e1092be4f38/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.9.aar/aeb01549bf7761eb8a92eacafe8c37da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.9.aar/aeb01549bf7761eb8a92eacafe8c37da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3bd3f9d08749862d8e869902f886e403/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3bd3f9d08749862d8e869902f886e403/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/9e7baac68054db34cfcc50cfa8fb03a7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/9e7baac68054db34cfcc50cfa8fb03a7/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/277cbe8848639be24b9fc1a41ea6b53b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/277cbe8848639be24b9fc1a41ea6b53b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b237ff802beedc8a6ce5003ee335138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b237ff802beedc8a6ce5003ee335138/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/36fb5016995cc54badfe04f2c62eb4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/36fb5016995cc54badfe04f2c62eb4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c1b5bc866cac8bd5efc1984d4327b74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c1b5bc866cac8bd5efc1984d4327b74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/86d6aeccad174ae284ce78c990af5a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/86d6aeccad174ae284ce78c990af5a4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b11011c74b129e40609dffddaa2650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d2b11011c74b129e40609dffddaa2650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/80015ea1a3d966515ed671c10379fc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/80015ea1a3d966515ed671c10379fc40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/aa3c3d579af4310a4f84e6098d9ca522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/aa3c3d579af4310a4f84e6098d9ca522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/77e15c2f78ec51c1af3944fad6a93516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/77e15c2f78ec51c1af3944fad6a93516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7887cbd6ad8c6fd3cb69ad67e6b1888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a7887cbd6ad8c6fd3cb69ad67e6b1888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b38829bb5bbcf9b24fa35dfd1c3629e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6b38829bb5bbcf9b24fa35dfd1c3629e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e95c610ccff86b6ec9d421fae78bea9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e95c610ccff86b6ec9d421fae78bea9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5b768e64937026987a131ebc23111b20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5b768e64937026987a131ebc23111b20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/451c02369d69030a45c935a7a792e14b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/451c02369d69030a45c935a7a792e14b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c5af5cde2c6dc9146351e9713262e3ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c5af5cde2c6dc9146351e9713262e3ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/071e3a758eea2f746119dbf644a685ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/071e3a758eea2f746119dbf644a685ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4d9b654dfc85d89175681c573e60764/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/f4d9b654dfc85d89175681c573e60764/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/170726b9433846883235d5ac9c47dac4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/170726b9433846883235d5ac9c47dac4/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7fd5956185ad8250483069ce97785abc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7fd5956185ad8250483069ce97785abc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/521eef1ec716c1ee1e4aba46fa340c58/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/521eef1ec716c1ee1e4aba46fa340c58/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dff8de51446f9d412ac09bdd1c4680d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/dff8de51446f9d412ac09bdd1c4680d7/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96cd87fc0986147c1630707e355a2f27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/96cd87fc0986147c1630707e355a2f27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eb87431f26e8ce037a8d8664e9f5081/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9eb87431f26e8ce037a8d8664e9f5081/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/src/main/AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative57/release/drawable-ldpi-v4/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_arrow_back_black_rtl_24dp.png",
+        "source": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative57/release/drawable-ldpi-v4/ic_arrow_back_black_rtl_24dp.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative57/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_arrow_back_black_rtl_24dp.xml",
+        "source": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative57/release/drawable-anydpi-v21/ic_arrow_back_black_rtl_24dp.xml"
+    },
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3bd3f9d08749862d8e869902f886e403/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/gurtej.singh/Documents/Gurtej/testTasks/YogaApp/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/gurtej.singh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3bd3f9d08749862d8e869902f886e403/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
